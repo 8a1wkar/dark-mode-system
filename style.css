@@ -1,0 +1,8 @@
+body {
+	background-color: #fff;
+}
+
+/*بۆ دۆخى رەش*/
+body[data-light-mode=dark] {
+    background-color: #000!important;
+	}
